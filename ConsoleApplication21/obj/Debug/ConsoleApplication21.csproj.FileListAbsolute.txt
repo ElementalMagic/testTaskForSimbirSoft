@@ -16,3 +16,6 @@ C:\Users\User\Desktop\Всё\Исходны код\ConsoleApplication21\bin\Debu
 C:\Users\User\Desktop\Всё\Исходны код\ConsoleApplication21\obj\Debug\ConsoleApplication21.csprojResolveAssemblyReference.cache
 C:\Users\User\Desktop\Всё\Исходны код\ConsoleApplication21\obj\Debug\testTaskSimbirSoft.exe
 C:\Users\User\Desktop\Всё\Исходны код\ConsoleApplication21\obj\Debug\testTaskSimbirSoft.pdb
+C:\Users\User\Documents\GitHub\testTaskForSimbirSoft\ConsoleApplication21\bin\Debug\testTaskSimbirSoft.exe.config
+C:\Users\User\Documents\GitHub\testTaskForSimbirSoft\ConsoleApplication21\obj\Debug\testTaskSimbirSoft.exe
+C:\Users\User\Documents\GitHub\testTaskForSimbirSoft\ConsoleApplication21\obj\Debug\testTaskSimbirSoft.pdb
