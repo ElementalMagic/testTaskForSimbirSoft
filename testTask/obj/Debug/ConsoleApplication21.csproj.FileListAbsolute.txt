@@ -1,0 +1,18 @@
+c:\users\el\documents\visual studio 2015\Projects\ConsoleApplication21\ConsoleApplication21\bin\Debug\ConsoleApplication21.exe.config
+c:\users\el\documents\visual studio 2015\Projects\ConsoleApplication21\ConsoleApplication21\bin\Debug\ConsoleApplication21.exe
+c:\users\el\documents\visual studio 2015\Projects\ConsoleApplication21\ConsoleApplication21\bin\Debug\ConsoleApplication21.pdb
+c:\users\el\documents\visual studio 2015\Projects\ConsoleApplication21\ConsoleApplication21\obj\Debug\ConsoleApplication21.exe
+c:\users\el\documents\visual studio 2015\Projects\ConsoleApplication21\ConsoleApplication21\obj\Debug\ConsoleApplication21.pdb
+C:\Users\El\Documents\Visual Studio 2015\Projects\ConsoleApplication21\ConsoleApplication21\obj\Debug\ConsoleApplication21.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Исходны код\ConsoleApplication21\bin\Debug\ConsoleApplication21.exe.config
+C:\Users\User\Desktop\Исходны код\ConsoleApplication21\obj\Debug\ConsoleApplication21.exe
+C:\Users\User\Desktop\Исходны код\ConsoleApplication21\obj\Debug\ConsoleApplication21.pdb
+C:\Users\User\Desktop\Исходны код\ConsoleApplication21\bin\Debug\ConsoleApplication21.exe
+C:\Users\User\Desktop\Исходны код\ConsoleApplication21\bin\Debug\ConsoleApplication21.pdb
+C:\Users\User\Desktop\Исходны код\ConsoleApplication21\obj\Debug\ConsoleApplication21.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Всё\Исходны код\ConsoleApplication21\bin\Debug\testTaskSimbirSoft.exe.config
+C:\Users\User\Desktop\Всё\Исходны код\ConsoleApplication21\bin\Debug\testTaskSimbirSoft.exe
+C:\Users\User\Desktop\Всё\Исходны код\ConsoleApplication21\bin\Debug\testTaskSimbirSoft.pdb
+C:\Users\User\Desktop\Всё\Исходны код\ConsoleApplication21\obj\Debug\ConsoleApplication21.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Всё\Исходны код\ConsoleApplication21\obj\Debug\testTaskSimbirSoft.exe
+C:\Users\User\Desktop\Всё\Исходны код\ConsoleApplication21\obj\Debug\testTaskSimbirSoft.pdb
